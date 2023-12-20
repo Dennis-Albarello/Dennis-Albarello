@@ -39,6 +39,7 @@
 - PostgreSQL
 - Python (Pandas)
 - Power BI
+- Microsoft Office
 </h4>
 
 <!-- INSERINDO AS BADGES -->
